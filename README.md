@@ -2,7 +2,7 @@
 
 This lesson template is intended to be used with the
 [workshop-template](https://github.com/Southampton-RSG-Training/workshop-template/),
-but can be used to create an independent, standalone lesson. 
+but can be used to create an independent, standalone lesson.  
 
 ## Standalone lesson build using existing lesson content
 
